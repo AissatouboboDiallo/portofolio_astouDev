@@ -60,9 +60,7 @@ export default function Hero() {
             <a href={profile.socials.linkedin} target="_blank" rel="noreferrer" className="transition-colors hover:text-[var(--accent)]">
               <FiLinkedin />
             </a>
-            <a href={profile.socials.twitter} target="_blank" rel="noreferrer" className="transition-colors hover:text-[var(--accent)]">
-              <FiTwitter />
-            </a>
+            
             <a href={profile.socials.email} className="transition-colors hover:text-[var(--accent)]">
               <FiMail />
             </a>

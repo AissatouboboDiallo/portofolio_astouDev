@@ -17,7 +17,7 @@ const initialState = {
     isAvailable: true,
     socials: {
       github: "https://github.com/AissatouboboDiallo",
-      linkedin: "https://linkedin.com",
+      linkedin: "https://www.linkedin.com/in/aissatou-bobo-diallo-a75121279/",
       email: "mailto:aissatoubobo094@gmail.com",
       phone: "+224 625 85 61 36",
       location: "Mamou, Guinée"
