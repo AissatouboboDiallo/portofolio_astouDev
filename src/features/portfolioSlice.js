@@ -77,8 +77,8 @@ const initialState = {
     } ,
     {
         id:3,
-        title : "Saas Landing Page",
-        description : "Landing page moderne pour une application Saas.",
+        title : "Saas App",
+        description : "Une application mobile de gestion des voitures. Conçu en flutter avec les fonctionnalités Firebase implémentées",
         technos: ["Flutter", "Material 3", "Firebase"],
         image: "/images/firscars.png", // Remplace par ta vraie capture d'écran
         link: "https://github.com/AissatouboboDiallo/firsCars"
