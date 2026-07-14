@@ -11,7 +11,7 @@ const getInitialTheme = () => {
 const initialState = {
   theme: getInitialTheme(),
      profile: {
-    name: "Astou Bobo",
+    name: "Aïssatou Bobo",
     role: "Développeuse Web & Mobile",
     description:
       "Développeuse spécialisée en applications web et mobiles modernes. Je conçois des interfaces performantes avec React, React Native et Flutter, en intégrant des solutions backend robustes avec Firebase. Mon objectif : créer des expériences utilisateur fluides, rapides et scalables.",
