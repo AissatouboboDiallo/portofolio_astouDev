@@ -37,7 +37,7 @@ export default function Projects() {
             className="theme-card group flex flex-col overflow-hidden rounded-2xl transition-all duration-500 hover:border-[var(--accent)] hover:shadow-[0_10px_30px_var(--accent-glow)]"
           >
             {/* 1. Zone Image du projet */}
-            <div className="theme-surface-strong relative aspect-[16/10] w-full overflow-hidden">
+            <div className="theme-surface-strong relative aspect-[10/10] w-full overflow-hidden">
               <img
                 src={project.image}
                 alt={project.title}
